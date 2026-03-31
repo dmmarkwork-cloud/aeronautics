@@ -9,7 +9,7 @@ Focused on aircraft design, CFD simulation, and UAV systems.
 | Project | Description | Tools |
 |---|---|---|
 | [PANO-VISTA UAV CFD](link) | 6m reconnaissance UAV, 5% drag reduction | SolidWorks, OpenFOAM |
-| [MK-10 Aircraft Design](link) | 1,649 lb light aircraft, full design framework | Excel, SolidWorks |
+| [MK-10 Aircraft Design](link) | 1,649 lb light aircraft, full design framework | Excel, SolidWorks, Xfoil |
 | [Rotor Blade Element Theory](link) | 71-inch 2-blade rotor, CAD + theory validation | SolidWorks |
 
 ## Skills
