@@ -1,7 +1,6 @@
-# Welcome!
-# Mark Lorenz Yamanaka — Aeronautical Engineering Portfolio
+# Welcome to my AeroEng Portfolio!
 
-Licensed Aeronautical Engineer based in Tsukuba, Japan.  
+I'm Mark Lorenz Yamanaka, a licensed Aeronautical Engineer based in Tsukuba, Japan.  
 Focused on aircraft design, CAD, FEA, CFD, UAV systems, and topology optimisation.
 
 ## Projects
@@ -16,8 +15,8 @@ Focused on aircraft design, CAD, FEA, CFD, UAV systems, and topology optimisatio
 | [Rotor Blade Element Theory](link) | 71-inch 2-blade rotor, CAD + theory validation | SolidWorks |
 
 
-## Skills
-`SolidWorks` `Calculix + PrePoMax` `ANSYS` `OpenFOAM + ParaView` `XFOIL` `MATLAB` `Excel`
+## Stacks
+`SolidWorks` `Calculix + PrePoMax` `ANSYS Fluent` `ANSYS Mechanical` `OpenFOAM + ParaView` `XFOIL` `MATLAB` `Excel` `CATIA [currently learning]`
 
 ## Contact
 - 📧 dmmark.work@gmail.com
