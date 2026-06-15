@@ -1,7 +1,7 @@
 # Welcome to my AeroEng Portfolio!
 
 I'm Mark Lorenz Yamanaka, a licensed Aeronautical Engineer based in Tsukuba, Japan.  
-Focused on aircraft design, CAD, FEA, CFD, UAV systems, and topology optimisation.
+Focused on aircraft design, CAD, FEA, CFD, UAV systems, and topology optimisation (currently poking at it).
 
 ## Projects
 
