@@ -11,7 +11,7 @@ Focused on aircraft design, CAD, FEA, CFD, UAV systems, and topology optimisatio
 | [SS316 Nozzle Feasibility](https://github.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility) | Uncooled SS316 Conical Nozzle, area ratio = 4, one-way FSI, FoS of 42.7 | SolidWorks, Ansys Fluent, Ansys Mechanical, Jupyter |
 | [PANO-VISTA UAV](https://github.com/dmmarkwork-cloud/pano-vista-uav-cfd) | 6m reconnaissance UAV, 5% drag reduction | SolidWorks, OpenFOAM |
 | [MK-10 Aircraft Design](https://github.com/dmmarkwork-cloud/mk10-aircraft-design) | 1,649 lb light aircraft, full design framework | Excel, SolidWorks, Xfoil |
-| [Rotor Blade Element Theory](https://github.com/dmmarkwork-cloud/Rotor-Blade) | 71-inch 2-blade rotor, CAD + theory validation | SolidWorks |
+| [Rotor Blade Design](https://github.com/dmmarkwork-cloud/Rotor-Blade) | 71-inch 2-blade rotor, CAD + theory validation | SolidWorks |
 
 
 ## Stacks
