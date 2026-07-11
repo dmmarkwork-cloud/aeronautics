@@ -1,6 +1,6 @@
 # Welcome to my AeroEng Portfolio!
 
-I'm Mark Yamanaka! I focus on aircraft design, CAD, FEA, CFD, and UAV systems. I'm currently learning composite laminate and topology optimisation.
+Hello! Mark here. I focus on aircraft design, CAD, FEA, CFD, and UAV systems. I'm currently learning composite laminate and topology optimisation.
 
 ## Projects
 
