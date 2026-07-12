@@ -1,4 +1,4 @@
-# Welcome to my AeroEng Portfolio!
+# Welcome to my Portfolio!
 
 Hello! Mark here. I focus on aircraft design, CAD, FEA, CFD, and UAV systems. I'm currently learning composite laminate and topology optimisation.
 
