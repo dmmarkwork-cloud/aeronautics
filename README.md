@@ -14,7 +14,7 @@ Hello! Mark here. I focus on aircraft design, CAD, FEA, CFD, and UAV systems. I'
 
 
 ## Stacks
-`SolidWorks` `Calculix + PrePoMax` `ANSYS Fluent` `ANSYS Mechanical` `OpenFOAM + ParaView` `XFOIL` `MATLAB` `Excel` `CATIA [currently learning]`
+`SolidWorks` `CATIA` `Calculix + PrePoMax` `ANSYS Fluent` `ANSYS Mechanical` `OpenFOAM + ParaView` `XFOIL` `MATLAB` `Excel`
 
 ## Contact
 - 📧 dmmark.work@gmail.com
