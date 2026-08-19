@@ -25,11 +25,11 @@ CFD, FEA, FSI, and DFM.
  
 - Mass flow imbalance: 0.04%
 - Exit Mach (area weighted): 2.87
-- Max stress at throat: 142 MPa
+- Max stress at throat: 4.92 MPa (converged mesh)
 - Misalignment safety margin: 1.68
 - DFM deliverables
   
-[View project →](projects/ss316-cd-nozzle-feasibility)
+[View project →](https://github.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility)
  
 </td>
 <td width="33%" valign="top">
