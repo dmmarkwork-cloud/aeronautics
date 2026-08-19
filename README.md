@@ -61,6 +61,7 @@ CFD, FEA, FSI, and DFM.
 - Cruise speed: 120 kt
 - Range: 620 nm
 - Ceiling: 15,000 ft
+  
 [View project →](projects/mk-10-aircraft-design)
  
 </td>
