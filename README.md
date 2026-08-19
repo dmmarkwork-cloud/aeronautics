@@ -1,8 +1,12 @@
 # Welcome to my Portfolio!
 
+## Contact
+- 📧 dmmark.work@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/mark-lorenz-yamanaka-6161a3210)
+- 
 Hello! I'm Mark, Aeronautical engineer focused on aircraft design, mechanical design, CAD, FEA, CFD, and UAV systems. I build and analyze aerospace systems with an emphasis on structural performance, manufacturability, and design optimization.
 
-## Projects
+## Featured Projects
 
 | Project | Description | Images | Tools |
 |---|---|---|---|
@@ -39,6 +43,37 @@ Hello! I'm Mark, Aeronautical engineer focused on aircraft design, mechanical de
 - damage tolerance and repair scheme
 - topology optimisation
 - Python for engineering automation
+
+**CAD and drafting**
+ 
+![SolidWorks](https://img.shields.io/badge/SolidWorks-2b3137?style=flat-square)
+![CATIA](https://img.shields.io/badge/CATIA-2b3137?style=flat-square)
+![GD&T](https://img.shields.io/badge/GD%26T-2b3137?style=flat-square)
+![DFM](https://img.shields.io/badge/DFM-2b3137?style=flat-square)
+ 
+**Simulation**
+ 
+![ANSYS Fluent](https://img.shields.io/badge/ANSYS%20Fluent-2b3137?style=flat-square)
+![ANSYS Mechanical](https://img.shields.io/badge/ANSYS%20Mechanical-2b3137?style=flat-square)
+![CalculiX](https://img.shields.io/badge/CalculiX-2b3137?style=flat-square)
+![OpenFOAM](https://img.shields.io/badge/OpenFOAM-2b3137?style=flat-square)
+![ParaView](https://img.shields.io/badge/ParaView-2b3137?style=flat-square)
+![XFOIL](https://img.shields.io/badge/XFOIL-2b3137?style=flat-square)
+ 
+**Computation**
+ 
+![MATLAB](https://img.shields.io/badge/MATLAB-2b3137?style=flat-square)
+![Python](https://img.shields.io/badge/Python-2b3137?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-2b3137?style=flat-square)
+
+
+
+
+
+
+
+
+
 
 
 ## Contact
