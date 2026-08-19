@@ -1,5 +1,8 @@
 # Welcome to my Portfolio!
 
+<!-- README.md | github.com/dmmarkwork-cloud/aeronautics Layout notes: - GitHub sanitizes README HTML: no <style>, no style="" attributes, no <script>, no CSS classes. The card grid below is therefore built with a plain <table>, which is the only reliable multi-column primitive available. - Allowed attributes used here: align, valign, width, src, alt, href. These survive sanitization. - Image paths are relative to the repo root. Rename files to match your actual assets. --> <p align="center"> <img src="assets/banner.png" alt="Aeronautics portfolio banner" width="100%"> </p> <h1 align="center">Mark Lorenz Yamanaka</h1> <p align="center"> <b>Aeronautical Engineer</b> &nbsp;•&nbsp; Aircraft Design &nbsp;•&nbsp; CAD &nbsp;•&nbsp; FEA &nbsp;•&nbsp; CFD &nbsp;•&nbsp; UAV Systems </p> <p align="center"> I design and analyze aerospace systems with emphasis on structural performance, manufacturability, and design optimization.<br> Currently learning composite laminate analysis and topology optimization. </p> <p align="center"> <a href="mailto:dmmark.work@gmail.com"> <img src="https://img.shields.io/badge/Email-dmmark.work%40gmail.com-21262d?style=flat-square&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://www.linkedin.com/in/YOUR-HANDLE"> <img src="https://img.shields.io/badge/LinkedIn-Profile-21262d?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="resume.pdf"> <img src="https://img.shields.io/badge/Resume-PDF-21262d?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume"> </a> </p>
+
+
 ## Contact
 - 📧 dmmark.work@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/mark-lorenz-yamanaka-6161a3210)
@@ -123,58 +126,7 @@ CFD, FEA, FSI, and DFM.
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Featured Projects
-
-| Project | Description | Images | Tools |
-|---|---|---|---|
-| [SS316 Nozzle Feasibility](https://github.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility) | Uncooled SS316 conical nozzle, one-way FSI, 0.04% mass flow imbalance, DFM package | <img src="https://raw.githubusercontent.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility/main/cfd/figures/mach_contour_v2.png" width="600"> | SolidWorks, CATIA, Ansys Fluent, Ansys Mechanical, Jupyter |
-| [Al6061 Propellant Tank FEA](https://github.com/dmmarkwork-cloud/gas-vessel-fea) | 3mm thin-walled, Al 6061-T6 material, mesh refinement changed stress by 0.62% | SolidWorks, Calculix via PrePoMax |
-| [MK-10 Aircraft Design](https://github.com/dmmarkwork-cloud/mk10-light-aircraft-design) | 1,649 lb light aircraft, full design framework | Excel, SolidWorks, Xfoil |
-| [PANO-VISTA UAV](https://github.com/dmmarkwork-cloud/pano-vista-uav) | 6m reconnaissance UAV, full airframe, propulsion, and electronics with exploded-view drawings | SolidWorks, OpenFOAM |
-| [Rotor Blade Design](https://github.com/dmmarkwork-cloud/Rotor-Blade) | 71-inch 2-blade rotor, CAD | SolidWorks |
-
-
-## Stacks
 **CAD/Design**
-- SolidWorks
-- CATIA
-- Engineering Drawing
-- GD&T
-- DFM
-
-**Simulation**
-- ANSYS Fluent
-- ANSYS Mechanical
-- Calculix
-- OpenFOAM + ParaView
-
-**Programming**
-- Excel
-- Python
-- XFOIL
-- Matlab
-
-
-## Currently Learning
-- composite laminate analysis
-- damage tolerance and repair scheme
-- topology optimisation
-- Python for engineering automation
-
-**CAD and drafting**
  
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-2b3137?style=flat-square)
 ![CATIA](https://img.shields.io/badge/CATIA-2b3137?style=flat-square)
@@ -188,13 +140,13 @@ CFD, FEA, FSI, and DFM.
 ![CalculiX](https://img.shields.io/badge/CalculiX-2b3137?style=flat-square)
 ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-2b3137?style=flat-square)
 ![ParaView](https://img.shields.io/badge/ParaView-2b3137?style=flat-square)
-![XFOIL](https://img.shields.io/badge/XFOIL-2b3137?style=flat-square)
  
-**Computation**
+**Programming**
  
 ![MATLAB](https://img.shields.io/badge/MATLAB-2b3137?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-2b3137?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-2b3137?style=flat-square)
+![XFOIL](https://img.shields.io/badge/XFOIL-2b3137?style=flat-square)
 
 
 
