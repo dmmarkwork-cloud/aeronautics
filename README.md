@@ -14,20 +14,20 @@ Hello! I'm Mark, Aeronautical engineer focused on aircraft design, mechanical de
 
 
 ## Stacks
-### CAD/Design
+**CAD/Design**
 - SolidWorks
 - CATIA
 - Engineering Drawing
 - GD&T
 - DFM
 
-### Simulation
+**Simulation**
 - ANSYS Fluent
 - ANSYS Mechanical
 - Calculix
 - OpenFOAM + ParaView
 
-### Programming
+**Programming**
 - Excel
 - Python
 - XFOIL
