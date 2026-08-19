@@ -1,6 +1,4 @@
-# Welcome to my Portfolio!
-
-<!-- README.md | github.com/dmmarkwork-cloud/aeronautics Layout notes: - GitHub sanitizes README HTML: no <style>, no style="" attributes, no <script>, no CSS classes. The card grid below is therefore built with a plain <table>, which is the only reliable multi-column primitive available. - Allowed attributes used here: align, valign, width, src, alt, href. These survive sanitization. - Image paths are relative to the repo root. Rename files to match your actual assets. --> <p align="center">  <h1 align="center">Mark Lorenz Yamanaka</h1> <p align="center"> <b>Aeronautical Engineer</b> &nbsp;•&nbsp; Aircraft Design &nbsp;•&nbsp; CAD &nbsp;•&nbsp; FEA &nbsp;•&nbsp; CFD &nbsp;•&nbsp; UAV Systems &nbsp;•&nbsp; DFM</p> <p align="center"> I design and analyze aerospace systems with emphasis on structural performance, manufacturability, and design optimization.<br> Currently learning composite laminate analysis and topology optimization. </p> <p align="center"> <a href="mailto:dmmark.work@gmail.com"> <img src="https://img.shields.io/badge/Email-dmmark.work%40gmail.com-21262d?style=flat-square&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://www.linkedin.com/in/YOUR-HANDLE"> <img src="https://img.shields.io/badge/LinkedIn-Profile-21262d?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </p>
+<!-- README.md | github.com/dmmarkwork-cloud/aeronautics Layout notes: - GitHub sanitizes README HTML: no <style>, no style="" attributes, no <script>, no CSS classes. The card grid below is therefore built with a plain <table>, which is the only reliable multi-column primitive available. - Allowed attributes used here: align, valign, width, src, alt, href. These survive sanitization. - Image paths are relative to the repo root. Rename files to match your actual assets. --> <p align="center">  <h1 align="center">Welcome to my Portfolio!</h1> <p align="center"> <b>Aeronautical Engineer</b> &nbsp;•&nbsp; Aircraft Design &nbsp;•&nbsp; CAD &nbsp;•&nbsp; FEA &nbsp;•&nbsp; CFD &nbsp;•&nbsp; UAV Systems &nbsp;•&nbsp; DFM</p> <p align="center"> Hello! I'm Mark, and I design and analyse aerospace systems with emphasis on structural performance, manufacturability, and design optimization.<br> Currently learning composite laminate analysis and topology optimization. </p> <p align="center"> <a href="mailto:dmmark.work@gmail.com"> <img src="https://img.shields.io/badge/Email-dmmark.work%40gmail.com-21262d?style=flat-square&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://www.linkedin.com/in/YOUR-HANDLE"> <img src="https://img.shields.io/badge/LinkedIn-Profile-21262d?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </p>
 
 ---
 ## Featured Projects
@@ -119,8 +117,6 @@ CFD, FEA, FSI, and DFM.
 </td>
 </tr>
 </table>
----
-
 
 **CAD/Design**
  
@@ -143,17 +139,3 @@ CFD, FEA, FSI, and DFM.
 ![Python](https://img.shields.io/badge/Python-2b3137?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-2b3137?style=flat-square)
 ![XFOIL](https://img.shields.io/badge/XFOIL-2b3137?style=flat-square)
-
-
-
-
-
-
-
-
-
-
-
-## Contact
-- 📧 dmmark.work@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/mark-lorenz-yamanaka-6161a3210)
