@@ -102,21 +102,17 @@ CFD, FEA, FSI, and DFM.
   
 [View project →](projects/rotor-blade-design)
  
-</td>
-<td width="33%" valign="top">
- 
+</tr>
+</table>
+
 **Currently Learning**
  
 - Composite laminate analysis
 - Classical Lamination Theory
 - Topology optimization
 - Python for engineering automation
-  
-[View learning notes →](skills.md#currently-learning)
- 
-</td>
-</tr>
-</table>
+
+# Skills and Tools
 
 **CAD/Design**
  
