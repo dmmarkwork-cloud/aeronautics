@@ -6,17 +6,14 @@
 - 
 Hello! I'm Mark, Aeronautical engineer focused on aircraft design, mechanical design, CAD, FEA, CFD, and UAV systems. I build and analyze aerospace systems with an emphasis on structural performance, manufacturability, and design optimization.
 
-
-
 ---
- 
 ## Featured Projects
  
 <table>
 <tr>
 <td width="33%" valign="top">
 <a href="projects/ss316-cd-nozzle-feasibility">
-  <img src="projects/ss316-cd-nozzle-feasibility/images/cover.png" alt="SS316 CD nozzle von Mises field" width="100%">
+  <img src="raw.githubusercontent.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility/main/cfd/figures/mach_contour_v2.png" alt="SS316 CD nozzle von Mises field" width="100%">
 </a>
 **SS316 CD Nozzle Feasibility**
  
