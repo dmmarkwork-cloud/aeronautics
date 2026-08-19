@@ -102,7 +102,7 @@ CFD, FEA, FSI, and DFM.
 - Solidity: 0.095
 - Propeller diameter	Ø 71.10 in
   
-[View project →](https://github.com/dmmarkwork-cloud/rotor-blade-helicopter-design)
+[View project →](https://github.com/dmmarkwork-cloud/rotor-blade-helicopter-design/main/iso.png)
  
 </tr>
 </table>
