@@ -47,6 +47,7 @@ CFD, FEA, FSI, and DFM.
 - Max stress: 144.5 MPa
 - Max radial displacement: 0.402 mm (53.6% utilisation)
 - FOS: 1.92
+
 [View project →](https://github.com/dmmarkwork-cloud/gas-vessel-fea)
  
 </td>
@@ -83,6 +84,7 @@ CFD, FEA, FSI, and DFM.
 - MTOW: 25 kg
 - Endurance: 4.2 hr
 - Range: 180 km
+  
 [View project →](projects/pano-vista-uav)
  
 </td>
@@ -100,6 +102,7 @@ CFD, FEA, FSI, and DFM.
 - Airfoil: NACA 4412
 - Tip speed: 210 m/s
 - Solidity: 0.095
+  
 [View project →](projects/rotor-blade-design)
  
 </td>
@@ -111,6 +114,7 @@ CFD, FEA, FSI, and DFM.
 - Classical Lamination Theory
 - Topology optimization
 - Python for engineering automation
+  
 [View learning notes →](skills.md#currently-learning)
  
 </td>
