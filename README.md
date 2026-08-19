@@ -58,11 +58,13 @@ CFD, FEA, FSI, and DFM.
  
 1,649 lb light aircraft. Full design framework and performance analysis.
  
-- Cruise speed: 120 kt
-- Range: 620 nm
-- Ceiling: 15,000 ft
+- Design cruise speed: 137.20 mph
+- Range: 459 nmi
+- Endurance = 7.63 h
+- Ceiling: 9,536 ft (service) / 11,386 ft (absolute)
+- L/D max = 10.2 (e = 0.772)
   
-[View project →](projects/mk-10-aircraft-design)
+[View project →](https://github.com/dmmarkwork-cloud/mk10-aircraft-design/tree/main)
  
 </td>
 </tr>
