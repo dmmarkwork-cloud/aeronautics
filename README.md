@@ -18,13 +18,15 @@ Hello! I'm Mark, Aeronautical engineer focused on aircraft design, mechanical de
        width="100%">
 </a>
  
-**SS316 CD Nozzle Feasibility**
+**SS316 CD Nozzle Feasibility and DFM**
  
-Uncooled SS316 conical nozzle (AR = 4). CFD, FEA, FSI, and DFM.
+Uncooled SS316 conical nozzle (Ae/At = 4; Pc = 2 MPa; Tc = 800 K). CFD, FEA, FSI, and DFM.
  
 - Mass flow imbalance: 0.04%
-- Max stress: 142 MPa
-- FOS: 2.05
+- Exit Mach (area weighted): 2.87
+- Max stress at throat: 142 MPa
+- Misalignment safety margin: 1.68
+- DFM deliverables
 [View project →](projects/ss316-cd-nozzle-feasibility)
  
 </td>
