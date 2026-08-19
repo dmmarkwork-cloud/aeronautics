@@ -66,7 +66,7 @@ Uncooled SS316 conical nozzle (AR = 4). CFD, FEA, FSI, and DFM.
 <tr>
 <td width="33%" valign="top">
 <a href="https://github.com/dmmarkwork-cloud/pano-vista-uav">
-  <img src="https://raw.githubusercontent.com/pano-vista-uav/main/docs/exploded-view.png"
+  <img src="https://raw.githubusercontent.com/dmmarkwork-cloud/pano-vista-uav/main/docs/exploded-view.png"
        alt="SS316 CD nozzle Mach contour"
        width="100%">
 </a>
@@ -82,7 +82,7 @@ Uncooled SS316 conical nozzle (AR = 4). CFD, FEA, FSI, and DFM.
  
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/dmmarkwork-cloud/rotor-blade-helicopter-design">
+<a href="https://github.com/dmmarkwork-cloud/">
   <img src="https://raw.githubusercontent.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility/main/cfd/figures/mach_contour_v2.png"
        alt="SS316 CD nozzle Mach contour"
        width="100%">
