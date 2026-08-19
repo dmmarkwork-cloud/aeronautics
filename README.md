@@ -13,7 +13,7 @@ Hello! I'm Mark, Aeronautical engineer focused on aircraft design, mechanical de
 <tr>
 <td width="33%" valign="top">
 <a href="projects/ss316-cd-nozzle-feasibility">
-  <img src="raw.githubusercontent.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility/main/cfd/figures/mach_contour_v2.png" alt="SS316 CD nozzle von Mises field" width="100%">
+  <img src="ss316-cd-nozzle-feasibility/main/cfd/figures/mach_contour_v2.png" alt="SS316 CD nozzle von Mises field" width="100%">
 </a>
 **SS316 CD Nozzle Feasibility**
  
