@@ -24,6 +24,7 @@ CFD, FEA, FSI, and DFM.
 - DFM deliverables: GD&T drawing sheets, inspection plan, RFQ
   
 [View project →](https://github.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility)
+
  
 </td>
 <td width="33%" valign="top">
@@ -33,7 +34,6 @@ CFD, FEA, FSI, and DFM.
        width="100%">
 </a>
 
- 
 **Al6061 Propellant Tank FEA**
  
 3 mm thin-walled Al 6061-T6 tank. FEA with mesh convergence study.
@@ -44,6 +44,7 @@ CFD, FEA, FSI, and DFM.
 - FoS: 1.92
 
 [View project →](https://github.com/dmmarkwork-cloud/gas-vessel-fea)
+
  
 </td>
 <td width="33%" valign="top">
