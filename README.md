@@ -7,6 +7,7 @@ Hello! I'm Mark, Aeronautical engineer focused on aircraft design, mechanical de
 | Project | Description | Tools |
 |---|---|---|
 | [SS316 Nozzle Feasibility](https://github.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility) | Uncooled SS316 conical nozzle, one-way FSI, 0.04% mass flow imbalance, DFM package <img src="https://raw.githubusercontent.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility/blob/main/cfd/figures/mach_contour_v2.png" width="600"> | SolidWorks, CATIA, Ansys Fluent, Ansys Mechanical, Jupyter |
+https://raw.githubusercontent.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility/main/cfd/figures/mach_contour_v2.png
 | [Al6061 Propellant Tank FEA](https://github.com/dmmarkwork-cloud/gas-vessel-fea) | 3mm thin-walled, Al 6061-T6 material, mesh refinement changed stress by 0.62% | SolidWorks, Calculix via PrePoMax |
 | [MK-10 Aircraft Design](https://github.com/dmmarkwork-cloud/mk10-light-aircraft-design) | 1,649 lb light aircraft, full design framework | Excel, SolidWorks, Xfoil |
 | [PANO-VISTA UAV](https://github.com/dmmarkwork-cloud/pano-vista-uav) | 6m reconnaissance UAV, full airframe, propulsion, and electronics with exploded-view drawings | SolidWorks, OpenFOAM |
