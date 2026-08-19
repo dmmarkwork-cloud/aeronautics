@@ -6,6 +6,114 @@
 - 
 Hello! I'm Mark, Aeronautical engineer focused on aircraft design, mechanical design, CAD, FEA, CFD, and UAV systems. I build and analyze aerospace systems with an emphasis on structural performance, manufacturability, and design optimization.
 
+
+
+---
+ 
+## Featured Projects
+ 
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="projects/ss316-cd-nozzle-feasibility">
+  <img src="projects/ss316-cd-nozzle-feasibility/images/cover.png" alt="SS316 CD nozzle von Mises field" width="100%">
+</a>
+**SS316 CD Nozzle Feasibility**
+ 
+Uncooled SS316 conical nozzle (AR = 4). CFD, FEA, FSI, and DFM.
+ 
+- Mass flow imbalance: 0.04%
+- Max stress: 142 MPa
+- FOS: 2.05
+[View project →](projects/ss316-cd-nozzle-feasibility)
+ 
+</td>
+<td width="33%" valign="top">
+<a href="projects/al6061-propellant-tank-fea">
+  <img src="projects/al6061-propellant-tank-fea/images/cover.png" alt="Al6061 propellant tank stress field" width="100%">
+</a>
+**Al6061 Propellant Tank FEA**
+ 
+3 mm thin-walled Al 6061-T6 tank. FEA with mesh convergence study.
+ 
+- Mesh convergence: 0.62%
+- Max stress: 115 MPa
+- FOS: 2.30
+[View project →](projects/al6061-propellant-tank-fea)
+ 
+</td>
+<td width="33%" valign="top">
+<a href="projects/mk-10-aircraft-design">
+  <img src="projects/mk-10-aircraft-design/images/cover.png" alt="MK-10 light aircraft" width="100%">
+</a>
+**MK-10 Aircraft Design**
+ 
+1,649 lb light aircraft. Full design framework and performance analysis.
+ 
+- Cruise speed: 120 kt
+- Range: 620 nm
+- Ceiling: 15,000 ft
+[View project →](projects/mk-10-aircraft-design)
+ 
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<a href="projects/pano-vista-uav">
+  <img src="projects/pano-vista-uav/images/cover.png" alt="PANO-VISTA reconnaissance UAV" width="100%">
+</a>
+**PANO-VISTA UAV**
+ 
+6 m reconnaissance UAV with full airframe, propulsion, and systems integration.
+ 
+- MTOW: 25 kg
+- Endurance: 4.2 hr
+- Range: 180 km
+[View project →](projects/pano-vista-uav)
+ 
+</td>
+<td width="33%" valign="top">
+<a href="projects/rotor-blade-design">
+  <img src="projects/rotor-blade-design/images/cover.png" alt="Two-blade rotor CAD model" width="100%">
+</a>
+**Rotor Blade Design**
+ 
+71 in two-blade rotor. CAD and aerodynamic design.
+ 
+- Airfoil: NACA 4412
+- Tip speed: 210 m/s
+- Solidity: 0.095
+[View project →](projects/rotor-blade-design)
+ 
+</td>
+<td width="33%" valign="top">
+**Currently Learning**
+ 
+- Composite laminate analysis
+- Classical Lamination Theory
+- Topology optimization
+- Python for engineering automation
+[View learning notes →](skills.md#currently-learning)
+ 
+</td>
+</tr>
+</table>
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Featured Projects
 
 | Project | Description | Images | Tools |
