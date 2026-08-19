@@ -17,6 +17,7 @@ Hello! I'm Mark, Aeronautical engineer focused on aircraft design, mechanical de
        alt="SS316 CD nozzle Mach contour"
        width="100%">
 </a>
+ 
 **SS316 CD Nozzle Feasibility**
  
 Uncooled SS316 conical nozzle (AR = 4). CFD, FEA, FSI, and DFM.
@@ -28,9 +29,12 @@ Uncooled SS316 conical nozzle (AR = 4). CFD, FEA, FSI, and DFM.
  
 </td>
 <td width="33%" valign="top">
-<a href="projects/al6061-propellant-tank-fea">
-  <img src="projects/al6061-propellant-tank-fea/images/cover.png" alt="Al6061 propellant tank stress field" width="100%">
+<a href="https://github.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility">
+  <img src="https://raw.githubusercontent.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility/main/cfd/figures/mach_contour_v2.png"
+       alt="SS316 CD nozzle Mach contour"
+       width="100%">
 </a>
+ 
 **Al6061 Propellant Tank FEA**
  
 3 mm thin-walled Al 6061-T6 tank. FEA with mesh convergence study.
@@ -42,9 +46,12 @@ Uncooled SS316 conical nozzle (AR = 4). CFD, FEA, FSI, and DFM.
  
 </td>
 <td width="33%" valign="top">
-<a href="projects/mk-10-aircraft-design">
-  <img src="projects/mk-10-aircraft-design/images/cover.png" alt="MK-10 light aircraft" width="100%">
+<a href="https://github.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility">
+  <img src="https://raw.githubusercontent.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility/main/cfd/figures/mach_contour_v2.png"
+       alt="SS316 CD nozzle Mach contour"
+       width="100%">
 </a>
+ 
 **MK-10 Aircraft Design**
  
 1,649 lb light aircraft. Full design framework and performance analysis.
@@ -58,9 +65,12 @@ Uncooled SS316 conical nozzle (AR = 4). CFD, FEA, FSI, and DFM.
 </tr>
 <tr>
 <td width="33%" valign="top">
-<a href="projects/pano-vista-uav">
-  <img src="projects/pano-vista-uav/images/cover.png" alt="PANO-VISTA reconnaissance UAV" width="100%">
+<a href="https://github.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility">
+  <img src="https://raw.githubusercontent.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility/main/cfd/figures/mach_contour_v2.png"
+       alt="SS316 CD nozzle Mach contour"
+       width="100%">
 </a>
+ 
 **PANO-VISTA UAV**
  
 6 m reconnaissance UAV with full airframe, propulsion, and systems integration.
@@ -72,9 +82,12 @@ Uncooled SS316 conical nozzle (AR = 4). CFD, FEA, FSI, and DFM.
  
 </td>
 <td width="33%" valign="top">
-<a href="projects/rotor-blade-design">
-  <img src="projects/rotor-blade-design/images/cover.png" alt="Two-blade rotor CAD model" width="100%">
+<a href="https://github.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility">
+  <img src="https://raw.githubusercontent.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility/main/cfd/figures/mach_contour_v2.png"
+       alt="SS316 CD nozzle Mach contour"
+       width="100%">
 </a>
+ 
 **Rotor Blade Design**
  
 71 in two-blade rotor. CAD and aerodynamic design.
@@ -86,6 +99,7 @@ Uncooled SS316 conical nozzle (AR = 4). CFD, FEA, FSI, and DFM.
  
 </td>
 <td width="33%" valign="top">
+ 
 **Currently Learning**
  
 - Composite laminate analysis
