@@ -13,7 +13,7 @@ Hello! I'm Mark, Aeronautical engineer focused on aircraft design, mechanical de
 <tr>
 <td width="33%" valign="top">
 <a href="https://github.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility">
-  <img src="https://raw.githubusercontent.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility/main/dfm/images/exploded-view.png"
+  <img src="https://raw.githubusercontent.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility/main/cfd/figures/mach_contour_v2.png"
        alt="SS316 CD nozzle Mach contour"
        width="100%">
 </a>
@@ -35,7 +35,7 @@ CFD, FEA, FSI, and DFM.
 <td width="33%" valign="top">
 <a href="https://github.com/dmmarkwork-cloud/gas-vessel-fea">
   <img src="https://raw.githubusercontent.com/dmmarkwork-cloud/gas-vessel-fea/main/images/mesh_coarse.png"
-       alt="SS316 CD nozzle Mach contour"
+       alt="Mach contour"
        width="100%">
 </a>
  
@@ -44,15 +44,16 @@ CFD, FEA, FSI, and DFM.
 3 mm thin-walled Al 6061-T6 tank. FEA with mesh convergence study.
  
 - Mesh convergence: 0.62%
-- Max stress: 115 MPa
-- FOS: 2.30
-[View project →](projects/al6061-propellant-tank-fea)
+- Max stress: 144.5 MPa
+- Max radial displacement: 0.402 mm (53.6% utilisation)
+- FOS: 1.92
+[View project →](https://github.com/dmmarkwork-cloud/gas-vessel-fea)
  
 </td>
 <td width="33%" valign="top">
 <a href="https://github.com/dmmarkwork-cloud/mk10-aircraft-design">
   <img src="https://raw.githubusercontent.com/dmmarkwork-cloud/mk10-aircraft-design/main/drawings/3d-view.png"
-       alt="SS316 CD nozzle Mach contour"
+       alt="von Mises stress on mid-cylinder and end-cap junctions"
        width="100%">
 </a>
  
