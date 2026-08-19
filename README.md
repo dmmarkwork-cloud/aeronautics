@@ -21,7 +21,7 @@ CFD, FEA, FSI, and DFM.
 - Exit Mach (area weighted): 2.87
 - Max stress at throat: 4.92 MPa (converged mesh)
 - Misalignment safety margin: 1.68
-- DFM deliverables
+- DFM deliverables: GD&T drawing sheets, inspection plan, RFQ
   
 [View project →](https://github.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility)
  
@@ -40,7 +40,7 @@ CFD, FEA, FSI, and DFM.
 - Mesh convergence: 0.62%
 - Max stress: 144.5 MPa
 - Max radial displacement: 0.402 mm (53.6% utilisation)
-- FOS: 1.92
+- FoS: 1.92
 
 [View project →](https://github.com/dmmarkwork-cloud/gas-vessel-fea)
  
@@ -66,11 +66,12 @@ CFD, FEA, FSI, and DFM.
  
 </td>
 </tr>
+
 <tr>
 <td width="33%" valign="top">
 <a href="https://github.com/dmmarkwork-cloud/pano-vista-uav">
   <img src="https://raw.githubusercontent.com/dmmarkwork-cloud/pano-vista-uav/main/docs/exploded-view.png"
-       alt="SS316 CD nozzle Mach contour"
+       alt="MK-10 3-views"
        width="100%">
 </a>
  
@@ -78,11 +79,11 @@ CFD, FEA, FSI, and DFM.
  
 6 m reconnaissance UAV with full airframe, propulsion, and systems integration.
  
-- MTOW: 25 kg
-- Endurance: 4.2 hr
-- Range: 180 km
+- Wing span: 800 mm
+- Propulsion: A2212/6T 2200KV on 3S
+- Radio: TBS Crossfire Nano RX
   
-[View project →](projects/pano-vista-uav)
+[View project →](https://github.com/dmmarkwork-cloud/pano-vista-uav)
  
 </td>
 <td width="33%" valign="top">
@@ -96,11 +97,12 @@ CFD, FEA, FSI, and DFM.
  
 71 in two-blade rotor. CAD and aerodynamic design.
  
-- Airfoil: NACA 4412
-- Tip speed: 210 m/s
+- Airfoil: NACA 2415
+- P/D: 1.37
 - Solidity: 0.095
+- Propeller diameter	Ø 71.10 in
   
-[View project →](projects/rotor-blade-design)
+[View project →](https://github.com/dmmarkwork-cloud/rotor-blade-helicopter-design)
  
 </tr>
 </table>
@@ -109,10 +111,10 @@ CFD, FEA, FSI, and DFM.
  
 - Composite laminate analysis
 - Classical Lamination Theory
-- Topology optimization
+- Topology optimization 
 - Python for engineering automation
 
-# Skills and Tools
+## Skills and Tools
 
 **CAD/Design**
  
