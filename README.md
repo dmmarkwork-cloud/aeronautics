@@ -89,12 +89,12 @@ CFD, FEA, FSI, and DFM.
  
 </td>
 <td width="33%" valign="top">
-<a href="https://github.com/dmmarkwork-cloud/">
+<a href="https://github.com/dmmarkwork-cloud/rotor-blade-helicopter-design">
   <img src="https://raw.githubusercontent.com/dmmarkwork-cloud/rotor-blade-helicopter-design/main/iso.png"
        alt="SS316 CD nozzle Mach contour"
        width="100%">
 </a>
- 
+
 **Rotor Blade Design**
  
 71 in two-blade rotor. CAD and aerodynamic design.
@@ -135,7 +135,6 @@ CFD, FEA, FSI, and DFM.
  
 **Programming**
  
-![MATLAB](https://img.shields.io/badge/MATLAB-2b3137?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-2b3137?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-2b3137?style=flat-square)
 ![XFOIL](https://img.shields.io/badge/XFOIL-2b3137?style=flat-square)
