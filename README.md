@@ -17,10 +17,11 @@
 Ae/At = 4, Pc = 2 MPa, Tc = 800 K, uncooled SS316 conical nozzle. 
 CFD, FEA, FSI, and DFM.
  
-- Mass flow imbalance: 0.04%
-- Exit Mach (area weighted): 2.87
-- Max stress at throat: 4.92 MPa (converged mesh)
-- Misalignment safety margin: 1.68
+- Mass flow imbalance: 0.00003%
+- Exit Mach (area weighted): 2.85
+- Governing location stress (junction): 29.611 MPa
+- Factor of Safety (FoS) at junction: 7.12 
+- Tolerance stackup misalignment safety margin: 1.68
 - DFM deliverables: GD&T drawing sheets, inspection plan, RFQ
   
 [View project →](https://github.com/dmmarkwork-cloud/ss316-cd-nozzle-feasibility)
