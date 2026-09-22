@@ -137,6 +137,6 @@ CFD, FEA, FSI, and DFM.
 **Programming**
  
 ![Python](https://img.shields.io/badge/Python-2b3137?style=flat-square)
-![MATLAB/Simulink](https://img.shields.io/badge/Excel-2b3137?style=flat-square)
+![MATLAB/Simulink](https://img.shields.io/badge/MATLAB/Simulink-2b3137?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-2b3137?style=flat-square)
 
