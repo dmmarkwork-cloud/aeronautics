@@ -132,9 +132,11 @@ CFD, FEA, FSI, and DFM.
 ![CalculiX](https://img.shields.io/badge/CalculiX-2b3137?style=flat-square)
 ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-2b3137?style=flat-square)
 ![ParaView](https://img.shields.io/badge/ParaView-2b3137?style=flat-square)
+![XFOIL](https://img.shields.io/badge/XFOIL-2b3137?style=flat-square)
  
 **Programming**
  
 ![Python](https://img.shields.io/badge/Python-2b3137?style=flat-square)
+![MATLAB/Simulink](https://img.shields.io/badge/Excel-2b3137?style=flat-square)
 ![Excel](https://img.shields.io/badge/Excel-2b3137?style=flat-square)
-![XFOIL](https://img.shields.io/badge/XFOIL-2b3137?style=flat-square)
+
