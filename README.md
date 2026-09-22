@@ -115,7 +115,6 @@ CFD, FEA, FSI, and DFM.
 - Composite laminate analysis
 - Classical Lamination Theory
 - Topology optimization 
-- Python for engineering automation
 
 ## Skills and Tools
 
